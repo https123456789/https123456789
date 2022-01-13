@@ -8,9 +8,8 @@
 
 # Repos
 
+## [BFC - A BrainF Compiler](<https://github.com/https123456789/BFC>)
+## [brainF-Programs - A collection of BrainF programs](<https://github.com/https123456789/brainF-Programs>)
 ## [Textual](<https://gtihub.com/https123456789/Textual>)
-
-![Textual Screenshot](<https://raw.githubusercontent.com/https123456789/Textual/main/Releases/latest-stable/Main.png>)
-
 ## [Javascript-MD-Processor](<https://github.com/https123456789/Javascript-MD-Processor>)
 
