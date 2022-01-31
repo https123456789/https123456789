@@ -1,0 +1,13 @@
+{
+	"include": [
+		{
+			"name": "Textual"
+		},
+		{
+			"name": "BFC"
+		},
+		{
+			"name": "brainF-programs"
+		}
+	]
+}
