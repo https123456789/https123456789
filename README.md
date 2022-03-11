@@ -23,8 +23,9 @@
 
 # Languages I Use
 
-<img src="https://js.org/favicon.png" alt="JavaScript">
-<img src="https://www.python.org/static/favicon.ico" alt="Python">
-<img src="https://isocpp.org/favicon.ico" alt="C++">
-<img src="https://www.learn-c.org/static/img/favicons/learn-c.org.ico" alt="C">
-<!--<img src="https://user-images.githubusercontent.com/81256789/156419913-4a976ecd-0f65-4897-a84e-be04325cc7fa.png" alt="BrainFuck">-->
+- Javascript
+- Python
+- C++
+- C
+- PHP
+- BrainF
