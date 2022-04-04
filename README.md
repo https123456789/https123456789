@@ -18,7 +18,7 @@
   <a href="https://github.com/https123456789/brainF-programs">brainF-Programs - A collection of BrainF programs.</a>
 </h2>
 <h2>
-  <a href="https://gtihub.com/https123456789/Textual">Textual - A web based text editor.</a>
+  <a href="https://github.com/https123456789/Textual">Textual - A web based text editor.</a>
 </h2>
 
 # Languages I Use
