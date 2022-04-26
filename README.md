@@ -1,31 +1,22 @@
-# Https12345678
+<h1 align="center">https123456789</h1>
 
-![Overview Stats](https://github.com/https123456789/github-stats/blob/master/generated/overview.svg)
-![My Languages Stats](https://github.com/https123456789/github-stats/blob/master/generated/languages.svg)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?duration=2000&color=f7f7f7&center=true&vCenter=true&width=600&height=50&lines=JavaScript;Python;C++;C;BrainFuck;PHP&font=Source+Code+Pro">
+</p>
 
-[![https123456789's github activity graph](https://activity-graph.herokuapp.com/graph?username=https123456789&theme=github&point=ffffff&area=true&hide-border=true&line=426cf5&area_color=426cf5)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=https123456789&theme=github-dark-blue&hide_border=true">
+</p>
 
+<p align="center">
+  <a href="https://github.com/https123456789/BFC"><img src="https://github-readme-stats.vercel.app/api/pin/?username=https123456789&repo=BFC&bg_color=45,212121,212121&text_color=f7f7f7&hide_border=true"></a>
+  <a href="https://github.com/https123456789/Cube-Run"><img src="https://github-readme-stats.vercel.app/api/pin/?username=https123456789&repo=Cube-Run&bg_color=45,212121,212121&text_color=f7f7f7&hide_border=true"></a>
+  <a href="https://github.com/https123456789/Textual"><img src="https://github-readme-stats.vercel.app/api/pin/?username=https123456789&repo=Textual&bg_color=45,212121,212121&text_color=f7f7f7&hide_border=true"></a>
+  <a href="https://github.com/https123456789/brainF-Programs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=https123456789&repo=brainF-Programs&bg_color=45,212121,212121&text_color=f7f7f7&hide_border=true"></a>
+  <a href="https://github.com/https123456789/Cpp-Math"><img src="https://github-readme-stats.vercel.app/api/pin/?username=https123456789&repo=Cpp-Math&bg_color=45,212121,212121&text_color=f7f7f7&hide_border=true"></a>
+  <a href="https://github.com/https123456789/ImDaH"><img src="https://github-readme-stats.vercel.app/api/pin/?username=https123456789&repo=ImDaH&bg_color=45,212121,212121&text_color=f7f7f7&hide_border=true"></a>
+</p>
 
-# Repos
-
-<h2>
-  <a href="https://github.com/https123456789/BFC">BFC - A BrainF Compiler.</a>
-</h2>
-<h2>
-  <a href="https://github.com/https123456789/cube-run">Cube Run - A simple game made with <a href="https://github.com/mrdoob/three.js">Three.js</a>.</a>
-</h2>
-<h2>
-  <a href="https://github.com/https123456789/brainF-programs">brainF-Programs - A collection of BrainF programs.</a>
-</h2>
-<h2>
-  <a href="https://github.com/https123456789/Textual">Textual - A web based text editor.</a>
-</h2>
-
-# Languages I Use
-
-- Javascript
-- Python
-- C++
-- C
-- PHP
-- BrainF
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https123456789&layout=compact&bg_color=45,212121,212121&text_color=f7f7f7&hide_border=true&langs_count=10">
+</p>
