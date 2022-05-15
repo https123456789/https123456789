@@ -1,7 +1,7 @@
 <h1 align="center">https123456789</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?duration=2000&color=f7f7f7&center=true&vCenter=true&width=600&height=50&lines=JavaScript;Python;C%2B%2B;C;BrainFuck;PHP&font=Source+Code+Pro">
+  <img src="https://readme-typing-svg.herokuapp.com/?duration=2000&color=888888&center=true&vCenter=true&width=600&height=50&lines=JavaScript;Python;C%2B%2B;C;BrainFuck;PHP&font=Source+Code+Pro">
 </p>
 
 <p align="center">
