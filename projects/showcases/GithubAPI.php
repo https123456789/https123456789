@@ -1,3 +1,6 @@
+<?php
+// I have to put some PHP code here so that Github Linguist won't mark the file as Hacklang.
+?>
 <!DOCTYPE html>
 <html>
 	<head>
