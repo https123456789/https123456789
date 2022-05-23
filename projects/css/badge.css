@@ -7,7 +7,7 @@
 	border: 1px solid #0070f3;
 	border-radius: 15px;
 	text-align: left;
-	min-width: 500px;
+	min-width: 400px;
 	max-width: fit-content;
 	padding: 25px;
 	max-height: 80px;
@@ -60,7 +60,7 @@
 	display: flex;
 	flex-direction: row;
 	padding: 0px;
-	font-family: monospace;
+	/*font-family: monospace;*/
 	font-size: 1.15em;
 }
 
@@ -72,6 +72,7 @@
 
 .attribute {
 	display: flex;
+	gap: 1%;
 	flex: 1;
 	/*border: 1px solid red;*/
 }
@@ -79,7 +80,15 @@
 .attribute > * {
 	height: 100%;
 	vertical-align: middle;
-	/*border: 1px solid red;*/
+	/*border: 1px solid green;*/
+	line-height: 1em;
+}
+
+.attribute > .img {
+	height: auto;
+	width: auto;
+	min-height: 1em;
+	max-height: 1em;
 }
 
 .attribute:first-child {

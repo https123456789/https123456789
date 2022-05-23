@@ -1,0 +1,1 @@
+RewriteRule ^(.*)$ icons/languag-color-dot.svg?language=$1 [L]

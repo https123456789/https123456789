@@ -11,6 +11,11 @@ a {
   text-decoration: none;
 }
 
+a:hover {
+	text-decoration: underline;
+	color: #0070ea;
+}
+
 * {
   box-sizing: border-box;
 }
