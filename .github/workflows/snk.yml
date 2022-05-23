@@ -1,13 +1,15 @@
-name: Metrics
+name: snk
 on:
   # Schedule daily updates
   schedule: [{cron: "0 0 */7 * *"}]
   # (optional) Run workflow manually
   workflow_dispatch:
 jobs:
-  github-metrics:
+  snk:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: Platane/snk@v2
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            github-snake.svg
