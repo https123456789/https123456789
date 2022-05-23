@@ -13,3 +13,11 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             github-snake.svg
+      - name: Commit to the repo
+        run: |
+          git config --global user.name "snk_workflow[bot]"
+          git config --global user.email "snk_workflow[bot]@https123456789.github.io"
+          git add .
+          # "echo" returns true so the build succeeds, even if no changed files
+          git commit -m 'Updated snake stats files - snk_workflow[bot]' || echo
+          git push
