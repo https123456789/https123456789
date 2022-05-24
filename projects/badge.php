@@ -2,7 +2,8 @@
 <html>
 	<head>
 		<title>Badge</title>
-		<link rel="stylesheet" href="/css/badge.css">
+		<base href="/projects/">
+		<link rel="stylesheet" href="css/badge.css">
 		<meta name="viewport" content="width=device-width">
 	</head>
 	<body>
@@ -16,7 +17,7 @@
 				<p class="description"><span id="description"></span></p>
 				<div class="details">
 					<div><p class="attribute">
-						<img src="/icons/star.svg" alt="" class="img"/>
+						<img src="icons/star.svg" alt="" class="img"/>
 						<span id="stars"></span>
 					</p></div>
 					<div><p class="attribute">

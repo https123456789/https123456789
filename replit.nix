@@ -5,5 +5,7 @@
 		pkgs.pstree
 		pkgs.zip
 		pkgs.unzip
+		pkgs.php80
+		pkgs.php80Packages.composer
 	];
 }
