@@ -2,8 +2,6 @@
     <img src="animated.svg" style="width: 100%;" alt="Click to see the source">
 </div>
 
-<!--<h1 align="center">https123456789</h1>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=https123456789&hide_border=true&border_radius=5&mode=weekly&background=00000000&stroke=88888888&fire=0F87FF&ring=0F87FF&currStreakNum=0F87FF&sideNums=0F87FF&currStreakLabel=0F87FF&border=88888888&sideLabels=0F87FF&dates=0F87FF">
   <br/>
@@ -30,4 +28,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https123456789&hide_border=true&card_width=500&hide=Hack,CSS,HTML&theme=github_dark&layout=compact&langs_count=5" align="center"/>
 </p>
--->
