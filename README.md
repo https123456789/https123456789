@@ -1,5 +1,5 @@
 <div style="width: 100%;">
-    <img src="animated.svg" style="width: 100%;" alt="Click to see the source">
+    <img src="https://raw.githubusercontent.com/https123456789/https123456789/2675985af13f33583f465de3b37784d9a54510c7/animated.svg" style="width: 100%;" alt="Click to see the source">
 </div>
 
 <p align="center">
