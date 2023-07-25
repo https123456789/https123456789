@@ -26,5 +26,5 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https123456789&hide_border=true&card_width=500&hide=Hack,CSS,HTML&theme=github_dark&layout=compact&langs_count=5" align="center"/>
+  <img src="https://github-readme-stats-https123456789-personal-instance.vercel.app/api/top-langs/?username=https123456789&hide_border=true&card_width=500&theme=github_dark&layout=compact&langs_count=5" align="center"/>
 </p>
