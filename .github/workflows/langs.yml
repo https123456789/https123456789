@@ -20,5 +20,5 @@ jobs:
         uses: test-room-7/action-update-file@v1
         with:
             file-path: langs.svg
-            commit-msg: cronjob(langs.yml): update langs.svg
+            commit-msg: 'cronjob(langs.yml): update langs.svg'
             github-token: ${{ secrets.GITHUB_TOKEN }}
