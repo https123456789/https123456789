@@ -1,0 +1,24 @@
+on:
+  schedule:
+    - cron:  '0 0 * * *'
+
+jobs:
+  update_langs_image:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+
+      - uses: actions/setup-node@v1
+
+      - name: Install wget
+        run: sudo apt install wget
+
+      - name: Download New Image
+        run: wget https://github-readme-stats-https123456789-personal-instance.vercel.app/api/top-langs/?username=https123456789&hide_border=true&card_width=500&theme=github_dark&layout=compact&langs_count=5 -O langs.svg
+
+      - name: Commit
+        uses: test-room-7/action-update-file@v1
+        with:
+            file-path: langs.svg
+            commit-msg: cronjob(langs.yml): update langs.svg
+            github-token: ${{ secrets.GITHUB_TOKEN }}
