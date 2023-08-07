@@ -1,3 +1,4 @@
+name: Langs SVG Update CronJob
 on:
   schedule:
     - cron:  '0 0 * * *'
