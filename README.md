@@ -26,5 +26,5 @@
 <br/>
 
 <p align="center">
-  <img src="langs.svg" align="center"/>
+  <img src="langs.svg?" align="center"/>
 </p>
