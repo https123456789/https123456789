@@ -1,11 +1,9 @@
-<div style="width: 100%;">
-    <img src="https://raw.githubusercontent.com/https123456789/https123456789/2675985af13f33583f465de3b37784d9a54510c7/animated.svg" style="width: 100%;" alt="Click to see the source">
-</div>
+<h1 align="center">Hi, I'm Ben!</h1>
+<p align="center">A high school student with a passion for programming.</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=https123456789&hide_border=true&border_radius=5&mode=weekly&background=00000000&stroke=88888888&fire=0F87FF&ring=0F87FF&currStreakNum=0F87FF&sideNums=0F87FF&currStreakLabel=0F87FF&border=88888888&sideLabels=0F87FF&dates=0F87FF">
   <br/>
-  <img src="https://wakatime.com/badge/user/a222a180-5024-4022-a3b7-e9338f6f5e06.svg?style=for-the-badge">
 </p>
 
 <p align="center">
@@ -20,9 +18,6 @@
   </a>
   <a href="https://github.com/https123456789?tab=repositories&q=&type=&language=c&sort=">
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-  </a>
-  <a href="https://github.com/https123456789?tab=repositories&q=&type=&language=c%2B%2B&sort=">
-    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   </a>
 </p>
 
