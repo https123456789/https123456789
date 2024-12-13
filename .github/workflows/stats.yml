@@ -1,0 +1,26 @@
+name: Stats SVG Update CronJob
+on:
+  workflow_dispatch:
+  schedule:
+    - cron:  '0 1 */7 * *'
+
+jobs:
+  update_langs_image:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+
+      - name: Install wget
+        run: sudo apt install wget
+
+      - name: Download New Image
+        run: 'wget "https://github-readme-streak-stats-n0tthmbph-ben-landons-projects.vercel.app?user=https123456789&theme=github-dark-blue&hide_border=true&short_numbers=true&mode=weekly" -O stats.svg'
+
+      - name: Commit
+        uses: test-room-7/action-update-file@v1
+        with:
+            file-path: stats.svg
+            commit-msg: 'cronjob(langs.yml): update stats.svg'
+            github-token: ${{ secrets.GITHUB_TOKEN }}
