@@ -3,7 +3,7 @@
 **<p align="center">A high school student with a passion for programming.</p>**
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=https123456789&hide_border=true&border_radius=5&mode=weekly&background=00000000&stroke=88888888&fire=0F87FF&ring=0F87FF&currStreakNum=0F87FF&sideNums=0F87FF&currStreakLabel=0F87FF&border=88888888&sideLabels=0F87FF&dates=0F87FF">
+  <img src="stats.svg">
   <br/>
 </p>
 
