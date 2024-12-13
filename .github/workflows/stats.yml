@@ -16,7 +16,7 @@ jobs:
         run: sudo apt install wget
 
       - name: Download New Image
-        run: 'wget "https://github-readme-streak-stats-n0tthmbph-ben-landons-projects.vercel.app?user=https123456789&theme=github-dark-blue&hide_border=true&short_numbers=true&mode=weekly" -O stats.svg'
+        run: 'wget "https://github-readme-streak-stats-bay-psi.vercel.app?user=https123456789&theme=github-dark-blue&hide_border=true&short_numbers=true&mode=weekly" -O stats.svg'
 
       - name: Commit
         uses: test-room-7/action-update-file@v1
