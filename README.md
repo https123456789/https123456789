@@ -2,10 +2,12 @@
 
 **<p align="center">A high school student with a passion for programming.</p>**
 
-<p align="center">
+<br/>
+
+<!--<p align="center">
   <img src="stats.svg">
   <br/>
-</p>
+</p>-->
 
 <p align="center">
   <a href="https://github.com/https123456789?tab=repositories&q=&type=&language=javascript&sort=">
