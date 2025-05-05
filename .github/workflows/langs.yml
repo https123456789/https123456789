@@ -16,7 +16,7 @@ jobs:
         run: sudo apt install wget
 
       - name: Download New Image
-        run: 'wget "https://github-readme-stats-https123456789-personal-instance.vercel.app/api/top-langs?username=https123456789&hide_border=true&card_width=500&theme=github_dark&layout=compact&langs_count=6&exclude_repo=github-readme-stats%2CImDaH%2Clandon-website%2CTextual%2CDrawer-Front-End%2Cgithub-readme-streak-stats&size_weight=0.6&count_weight=0.4&hide=HTML%2CCSS%2CBeef" -O langs.svg'
+        run: 'wget "https://github-readme-stats-https123456789-personal-instance.vercel.app/api/top-langs?username=https123456789&hide_border=true&card_width=500&theme=github_dark&layout=compact&langs_count=6&exclude_repo=github-readme-stats%2CImDaH%2Clandon-website%2CTextual%2CDrawer-Front-End%2Cgithub-readme-streak-stats%2CVox&size_weight=0.6&count_weight=0.4&hide=HTML%2CCSS%2CBeef" -O langs.svg'
 
       - name: Commit
         uses: test-room-7/action-update-file@v1
