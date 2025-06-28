@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Ben!</h1>
 
-**<p align="center">A high school student with a passion for programming.</p>**
+**<p align="center">I'm a student at UC Irvine majoring in Computer Science!</p>**
 
 <br/>
 
