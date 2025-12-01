@@ -4,10 +4,12 @@
 
 <br/>
 
+<p align="center">I enjoy programming in nearly any language but prefer working in Rust, C, and Python.</p>
+
 <!--<p align="center">
   <img src="stats.svg">
   <br/>
-</p>-->
+</p>
 
 <p align="center">
   <a href="https://github.com/https123456789?tab=repositories&q=&type=&language=rust&sort=">
@@ -25,4 +27,4 @@
 
 <p align="center">
   <img src="langs.svg?" align="center"/>
-</p>
+</p> -->
